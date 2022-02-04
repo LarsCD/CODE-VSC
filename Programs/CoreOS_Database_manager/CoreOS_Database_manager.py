@@ -142,7 +142,7 @@ class MainWindow():
         # self.window.configure(bg='blue')
         self.window.title(programTitle)
         self.window.geometry('700x425')
-        self.window.resizable(False, False)
+        # self.window.resizable(False, False)
         # self.window.rowconfigure(0, minsize=800, weight=1)
         # self.window.columnconfigure(1, minsize=800, weight=1)
 
